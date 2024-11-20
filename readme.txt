@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 ABC
 Creating a new branch is quick.
-mearge test.
+merge test.
+推送dev分支测试
