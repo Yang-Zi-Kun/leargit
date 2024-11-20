@@ -5,4 +5,4 @@ ABC
 Creating a new branch is quick.
 merge test.
 推送dev分支测试
-Creatig a new branch is quick & simple.
+Creating a new branchh is quick and simple.
